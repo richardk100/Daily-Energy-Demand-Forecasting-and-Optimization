@@ -71,4 +71,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/richardk100/ Daily Energy Demand Forecasting and Optimization.git
-cd your-repository-name
+cd  Daily Energy Demand Forecasting and Optimization
